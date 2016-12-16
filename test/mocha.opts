@@ -1,0 +1,5 @@
+--recursive
+--require ts-node/register
+--watch-extensions ts
+test/**/*.spec.ts
+test/*.spec.ts
