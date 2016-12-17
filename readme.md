@@ -16,7 +16,8 @@ mkdir some-project
 2. answer prompts
 
 ######package.json example
-```{
+```
+{
      "name": "ts-practice",
      "version": "1.0.0",
      "description": "typescript seed",
@@ -31,7 +32,7 @@ mkdir some-project
      "dependencies": {
        
      }
-   }
+}
 ```
 
 ###create tsconfig.json
