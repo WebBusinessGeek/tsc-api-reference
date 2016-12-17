@@ -39,7 +39,7 @@ mkdir some-project
 `tsc —init`
 
 ######tsconfig.json example
-```tsconfig.json example:
+```
 {
     "compilerOptions": {
         "module": "commonjs",
@@ -74,6 +74,7 @@ mkdir some-project
 - @types/express 
 - @types/debug 
 - @types/body-parser 
+
 ```
 npm install typescript express debug body-parser ts-node mocha chai nodemon @types/mocha @types/chai @types/chai-http @types/node @types/express @types/debug @types/body-parser  -—save-dev
 ```
