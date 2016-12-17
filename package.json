@@ -1,13 +1,15 @@
 {
   "name": "ts-practice",
   "version": "1.0.0",
-  "description": "practice with typescript",
-  "main": "server.js",
+  "description": "seed and reference of app in typescript",
+  "main": "Main.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha  --watch"
   },
   "keywords": [
-    "test"
+    "yo",
+    "I'm",
+    "hungry"
   ],
   "author": "kevin washington",
   "license": "MIT",
