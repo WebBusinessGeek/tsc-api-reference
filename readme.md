@@ -92,7 +92,7 @@ jspm_packages
 ```
 
 ###create tsconfig.json
-`tsc —init`
+`tsc --init`
 
 ######tsconfig.json example
 ```
