@@ -189,6 +189,12 @@ npm install typescript express debug body-parser ts-node mocha chai nodemon @typ
     - services/
         - acme/
             - AcmeService.ts
+    - components/
+        - acme/
+            - SomeComponent.ts
+    - entities/
+        - acme/
+            - Something.ts
     - extensible/
         - acme/
             - BaseAcmeClass.ts
