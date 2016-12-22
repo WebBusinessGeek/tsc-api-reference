@@ -177,33 +177,30 @@ npm install typescript express debug body-parser ts-node mocha chai nodemon @typ
 - tsconfig.json
 - package.json
 - app/
-    - Main.ts
-    - core/
+    - system/
         - Application.ts
         - RouteRegister.ts
-    - handlers/
-        - Handler1.ts
-        - Handler2.ts
-    - interceptors/
-        - Interceptor1.ts
-    - services/
-        - acme/
-            - AcmeService.ts
+        - Logger.ts
     - components/
-        - acme/
-            - SomeComponent.ts
+        - someComponent.ts
     - entities/
-        - acme/
-            - Something.ts
+        - someEntity.ts
     - extensible/
-        - acme/
-            - BaseAcmeClass.ts
-    - contracts/
-        - acme/
-            - AcmeInterface.ts
+        - someExtensible.ts
+    - handlers/
+        - someHandler.ts
+    - interceptors/
+        - someInterceptor.ts
+    - interfaces/
+        - someInterface.ts
+    - logs/
+    - services/
+        - someService.ts
+    - Initialize.ts
 - test/
     - mocha.opts
 - shared/
+    - constants/
 ```
 
 
