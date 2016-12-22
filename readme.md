@@ -134,12 +134,11 @@ jspm_packages
 - @types/nock
 - @types/request
 - @types/request-promise
-- @types/ts-node
 - @types/validator
 - @types/es6-promise
 
 ```
-npm install typescript express debug body-parser ts-node mocha chai nodemon @types/mocha @types/chai @types/chai-http @types/node @types/express @types/debug @types/body-parser  -—save-dev
+npm install bluebird body-parser chai express mocha nock request request-promise ts-node typescript validator @types/bluebird @types/body-parser @types/chai @types/express @types/mocha @types/nock @types/request @types/request-promise @types/validator  --save-dev
 ```
 
 ###setup npm scripts
